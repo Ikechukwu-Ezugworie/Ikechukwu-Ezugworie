@@ -20,9 +20,11 @@
   [![linkedin](https://user-images.githubusercontent.com/30867496/126779535-21126f94-097e-4216-8cce-e0da1a785319.png)](https://www.linkedin.com/in/ezugworie/)
 [![stackoverflow](https://user-images.githubusercontent.com/30867496/126779093-d8e6072c-2adc-4a26-ba71-c0cbf3dda2cb.png)](https://stackoverflow.com/users/10287292/iyke)
 
-### Github Stats
+## Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=ezugworie&show_icons=true"/>
 
-### Top Languages
+## Top Languages
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezugworie&layout=compact" width="40%"/>
 
