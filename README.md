@@ -22,7 +22,7 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezugworie&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ezugworie&show_icons=true&theme=vue"/>
 
 ## Top Languages
 
