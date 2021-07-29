@@ -26,5 +26,5 @@
 
 ## Top Languages
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezugworie&layout=compact" width="40%"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezugworie&layout=compact"/>
 
