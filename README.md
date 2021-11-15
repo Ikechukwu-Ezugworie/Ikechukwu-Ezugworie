@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Fullstack Engineer.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and Kotlin.
 
 - 💬 Ask me about TailwindCSS, VueJs, Laravel, Java, and Android.
 
