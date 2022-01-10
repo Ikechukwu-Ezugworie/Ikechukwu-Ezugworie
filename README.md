@@ -5,11 +5,11 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as a Frontend Engineer.
+- 🔭 I’m currently working as a Mobile App/Backend Engineer.
 
-- 🌱 I’m currently learning React.
+<!-- - 🌱 I’m currently learning React. -->
 
-- 💬 Ask me about Javasscript, VueJs, Bootstrap, TailwindCSS, Laravel, Java, and Android.
+- 💬 Ask me about Java, Kotlin, Android, PHP, Laravel, Javascript, VueJs, Bootstrap, TailwindCSS.
 
 - :wink: Pronouns: He/Him
 
