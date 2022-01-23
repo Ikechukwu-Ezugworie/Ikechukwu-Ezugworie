@@ -9,8 +9,7 @@
 
 <!-- - 🌱 I’m currently learning React. -->
 
-- 💬 Ask me about Javascript, VueJs, Bootstrap, TailwindCSS,
-   Java, Kotlin, Android, PHP, Laravel.
+- 💬 Ask me about Java, PHP, Javascript, VueJs, Laravel.
 - :wink: Pronouns: He/Him
 
 - ⚡ Fun fact: I'm left handed 😁  
