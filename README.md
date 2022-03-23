@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning React. -->
 
-- 💬 Ask me about Java, PHP, Javascript, VueJs, Laravel.
+- 💬 Ask me about Java, Javascript, VueJs, PHP, Laravel.
 - :wink: Pronouns: He/Him
 
 - ⚡ Fun fact: I'm left handed 😁  
