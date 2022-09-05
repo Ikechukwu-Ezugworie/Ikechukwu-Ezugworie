@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning React. -->
 
-- 💬 Ask me about Java, SpringBoot, Javascript, VueJs, PHP, Laravel.
+- 💬 Ask me about Java, SpringBoot, Android.
 - :wink: Pronouns: He/Him
 
 - ⚡ Fun fact: I'm left handed 😁  
