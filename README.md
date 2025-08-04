@@ -24,9 +24,9 @@ My primary technology focus is on **Java**, **Spring Boot**, and the surrounding
 - **DevOps:** Docker, Kubernetes, Jenkins, Github Actions
 - **Others:** Apache Kafka, Redis, REST APIs, OpenAPI/Swagger, AWS (EC2, S3)
 
-## 📦 Featured Projects
+<!--- ## 📦 Featured Projects
 
-<!--- **[Event-Pay](https://github.com/Ikechukwu-Ezugworie/Fintech-API):** Secure backend services for digital banking.
+ **[Event-Pay](https://github.com/Ikechukwu-Ezugworie/Fintech-API):** Secure backend services for digital banking.
 - **[Springboot-Payments](https://github.com/Ikechukwu-Ezugworie/Springboot-Payments):** Payment processing with Spring Boot.
 - **[Java-Financial-Analytics](https://github.com/Ikechukwu-Ezugworie/Java-Financial-Analytics):** Financial data analysis and reporting tools.
 --->
