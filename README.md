@@ -1,21 +1,41 @@
-## Hi there 👋 , Welcome to my Profile
+# 👋 Hi, I'm Ikechukwu Ezugworie!
 
+Welcome to my GitHub profile!
 
-<!-- **Ezugworie/Ezugworie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## 🚀 About Me
 
-<!-- Here are some ideas to get you started: -->
+I'm passionate about building innovative fintech solutions and thrive on solving complex problems in financial technology. I enjoy working on projects that make financial services smarter, more accessible, and secure.
 
-- 🔭 I’m currently working as a Software Engineer.
+My primary technology focus is on **Java**, **Spring Boot**, and the surrounding ecosystem. I love leveraging these tools to deliver robust, scalable, and high-performance applications.
 
-<!-- - 🌱 I’m currently learning React. -->
+## 💡 What I Do
 
-- 💬 Ask me about Java, SpringBoot, Android.
-- :wink: Pronouns: He/Him
+- **Fintech Development:** Creating secure, scalable solutions for financial services.
+- **Backend Engineering:** Designing RESTful APIs, microservices, and distributed systems with Java & Spring Boot.
+- **System Integration:** Seamless connections to payment gateways, banks, and third-party financial platforms.
+- **Data Analytics:** Building tools for financial data analysis, reporting, and visualization.
+- **Security & Compliance:** Implementing best practices for data protection and regulatory compliance.
 
-- ⚡ Fun fact: I'm left handed 😁  
+## 🛠️ Technologies & Tools
 
-- 📫 How to reach me: 
-  [![gmail_logo](https://user-images.githubusercontent.com/30867496/126779087-3856829e-4861-4739-b910-0f341222b9d1.png)](mailto:i.ezugworie@gmail.com)
-  [![linkedin](https://user-images.githubusercontent.com/30867496/126779535-21126f94-097e-4216-8cce-e0da1a785319.png)](https://www.linkedin.com/in/ezugworie/)
-[![stackoverflow](https://user-images.githubusercontent.com/30867496/126779093-d8e6072c-2adc-4a26-ba71-c0cbf3dda2cb.png)](https://stackoverflow.com/users/10287292/iyke)
+- **Languages:** Java
+- **Frameworks:** Spring Boot, Spring Cloud, Hibernate
+- **Databases:** PostgreSQL, MySQL, MSSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, Jenkins, Github Actions
+- **Others:** Apache Kafka, Redis, REST APIs, OpenAPI/Swagger, AWS (EC2, S3)
 
+## 📦 Featured Projects
+
+<!--- **[Event-Pay](https://github.com/Ikechukwu-Ezugworie/Fintech-API):** Secure backend services for digital banking.
+- **[Springboot-Payments](https://github.com/Ikechukwu-Ezugworie/Springboot-Payments):** Payment processing with Spring Boot.
+- **[Java-Financial-Analytics](https://github.com/Ikechukwu-Ezugworie/Java-Financial-Analytics):** Financial data analysis and reporting tools.
+--->
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/ezugworie/)
+- [Email](mailto:i.ezugworie@gmail.com)
+
+---
+
+> **I love collaborating on fintech innovations using Java and Spring Boot. If you're passionate about financial technology, let's build something impactful together!**
