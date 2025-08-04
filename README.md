@@ -13,7 +13,6 @@ My primary technology focus is on **Java**, **Spring Boot**, and the surrounding
 - **Fintech Development:** Creating secure, scalable solutions for financial services.
 - **Backend Engineering:** Designing RESTful APIs, microservices, and distributed systems with Java & Spring Boot.
 - **System Integration:** Seamless connections to payment gateways, banks, and third-party financial platforms.
-- **Data Analytics:** Building tools for financial data analysis, reporting, and visualization.
 - **Security & Compliance:** Implementing best practices for data protection and regulatory compliance.
 
 ## 🛠️ Technologies & Tools
